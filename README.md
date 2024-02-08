@@ -4,3 +4,6 @@
 - Licenciado em Matemática pela UTFPR
 - Mestrando no programa PROFMAT pela UTFPR
 - Professor de Matemática no Colégio Cívico-Militar Yvone Pimentel
+
+Trabalhei um pouco com a linguagem C na universidade.
+Trabalhando com HTML, CSS e Javascript atualmente.
