@@ -11,5 +11,4 @@ Trabalhei um pouco com a linguagem C na universidade.
 Trabalhando com HTML, CSS e Javascript atualmente.
 
 
-![](https://media1.tenor.com/m/YR1hxyktKYYAAAAC/cat.gif)
 ![](https://media1.tenor.com/m/ucLLyC6hYrgAAAAd/cat-cat-math.gif)
